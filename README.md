@@ -1,6 +1,10 @@
 ## Foundry Advanced
 
+1. Testing the gaslessTokenTransfer contract
+   
+2. Sign the permit message for the ERC0 contract
 
+3. Exectution 
 
 
 ## Documentation
